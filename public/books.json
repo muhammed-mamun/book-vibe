@@ -1,0 +1,80 @@
+[
+  {
+    "bookId": 1,
+    "title": "The Lord of the Rings: The Fellowship of the Ring",
+    "author": "J. R. R. Tolkien",
+    "image": "https://i.ibb.co/QDgTWJm/the-lord-of-rings.jpg",
+    "review": "An epic tale of hobbits, wizards, and a perilous journey to destroy the One Ring.",
+    "totalPage": 492,
+    "rating": 4.8,
+    "category": "Fantasy",
+    "tags": ["adventure", "friendship"],
+    "publisher": "Allen & Unwin",
+    "yearOfPublishing": 1954
+  },
+  {
+    "bookId": 2,
+    "title": "Pride and Prejudice",
+    "author": "Jane Austen",
+    "image": "https://i.ibb.co/z6kRPfr/Pride-and-Prejudice.jpg",
+    "review": "A witty and insightful social commentary about love and marriage in 19th century England.",
+    "totalPage": 224,
+    "rating": 4.2,
+    "category": "Romance",
+    "tags": ["comedy", "love story"],
+    "publisher": "E. P. Dutton",
+    "yearOfPublishing": 1813
+  },
+  {
+    "bookId": 3,
+    "title": "To Kill a Mockingbird",
+    "author": "Harper Lee",
+    "image": "https://i.ibb.co/hVVDwdX/To-Kill-a-Mockingbird.jpg",
+    "review": "A powerful story about racial injustice and the importance of empathy, seen through the eyes of a young girl.",
+    "totalPage": 324,
+    "rating": 4.7,
+    "category": "Historical Fiction",
+    "tags": ["justice", "discrimination"],
+    "publisher": "J. B. Lippincott & Co.",
+    "yearOfPublishing": 1960
+  },
+  {
+    "bookId": 4,
+    "title": "One Hundred Years of Solitude",
+    "author": "Gabriel Garcia Marquez",
+    "image": "https://i.ibb.co/K759cyc/One-Hundred-Years-of-Solitude.jpg",
+    "review": "A magical realist masterpiece that explores the rise and fall of a family and a town over generations.",
+    "totalPage": 487,
+    "rating": 4.5,
+    "category": "Magical Realism",
+    "tags": ["history", "fantasy"],
+    "publisher": "Editorial Sudamericana",
+    "yearOfPublishing": 1967
+  },
+  {
+    "bookId": 5,
+    "title": "The Hitchhiker's Guide to the Galaxy",
+    "author": "Douglas Adams",
+    "image": "https://i.ibb.co/7WvrrvK/The-Hitchhiker-s-Guide-to-the-Galaxy.jpg",
+    "review": "A hilarious science fiction comedy about a man who escapes Earth's destruction with his friend, a two-headed alien, and a towel.",
+    "totalPage": 192,
+    "rating": 4.3,
+    "category": "Science Fiction",
+    "tags": ["comedy", "adventure"],
+    "publisher": "Pan Books",
+    "yearOfPublishing": 1979
+  },
+  {
+    "bookId": 6,
+    "title": "Frankenstein",
+    "author": "Mary Shelley",
+    "image": "https://i.ibb.co/DM7NgZp/Frankenstein.jpg",
+    "review": "A gothic novel about a scientist who creates a monstrous being and the consequences of his ambition.",
+    "totalPage": 211,
+    "rating": 4.1,
+    "category": "Gothic Fiction",
+    "tags": ["science fiction", "horror"],
+    "publisher": "Lackington, Hughes, Harding and Mavor",
+    "yearOfPublishing": 1818
+  }
+]
